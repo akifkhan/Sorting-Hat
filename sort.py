@@ -28,7 +28,7 @@ def sort(f_type):
   
   except IOError:
       print "Error in reading file"
-
+# ADD MORE EXTENSIONS HERE IF YOU WANT
 sort("mp3")
 sort("rpm")
 sort("zip")
