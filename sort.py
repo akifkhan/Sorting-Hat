@@ -1,4 +1,4 @@
- #!/usr/bin/python
+#!/usr/bin/python
 # program that sorts your downloads folder and stores evrything in different folders like Mp3 in MP3folder .jpg in JPG folder and so on
 # Author Akif Khan (akif500@gmail.com)
 import os
